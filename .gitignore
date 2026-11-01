@@ -1,0 +1,19 @@
+# Gradle and build output
+.gradle/
+build/
+out/
+
+# Local run data and Minecraft configuration
+run/
+config/
+
+# IDE and operating system files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Logs and compiled classes
+*.log
+*.class
